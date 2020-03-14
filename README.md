@@ -1,0 +1,2 @@
+# socrates
+Study and Lectures
